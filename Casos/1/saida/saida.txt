@@ -1,0 +1,359 @@
+################################################
+DIGITE O CAMINHO DO BANCO DE DADOS: ################################################
+#################### CADASTRO SECRETARIO #######################
+NOME COMPLETO: CPF: DATA DE NASCIMENTO: TELEFONE: GENERO: NOME DE USUARIO: SENHA: NIVEL DE ACESSO: ######################## ACESSO MINI-SADE ######################
+DIGITE SEU LOGIN: DIGITE SUA SENHA: ###############################################################
+####################### MENU PRINCIPAL #########################
+ESCOLHA UMA OPCAO:
+	(1) CADASTRAR SECRETARIO
+	(2) CADASTRAR MEDICO
+	(3) CADASTRAR PACIENTE
+	(4) REALIZAR CONSULTA
+	(5) BUSCAR PACIENTES
+	(6) RELATORIO GERAL
+	(7) FILA DE IMPRESSAO
+	(8) FINALIZAR O PROGRAMA
+###############################################################
+#################### CADASTRO MEDICO #######################
+NOME COMPLETO: CPF: DATA DE NASCIMENTO: TELEFONE: GENERO: CRM: NOME DE USUARIO: SENHA: 
+CADASTRO REALIZADO COM SUCESSO. PRESSIONE QUALQUER TECLA PARA VOLTAR PARA O MENU INICIAL
+###############################################################
+####################### MENU PRINCIPAL #########################
+ESCOLHA UMA OPCAO:
+	(1) CADASTRAR SECRETARIO
+	(2) CADASTRAR MEDICO
+	(3) CADASTRAR PACIENTE
+	(4) REALIZAR CONSULTA
+	(5) BUSCAR PACIENTES
+	(6) RELATORIO GERAL
+	(7) FILA DE IMPRESSAO
+	(8) FINALIZAR O PROGRAMA
+###############################################################
+#################### CADASTRO PACIENTE #######################
+NOME COMPLETO: CPF: DATA DE NASCIMENTO: TELEFONE: GENERO: 
+CADASTRO REALIZADO COM SUCESSO. PRESSIONE QUALQUER TECLA PARA VOLTAR PARA O MENU INICIAL
+###############################################################
+####################### MENU PRINCIPAL #########################
+ESCOLHA UMA OPCAO:
+	(1) CADASTRAR SECRETARIO
+	(2) CADASTRAR MEDICO
+	(3) CADASTRAR PACIENTE
+	(4) REALIZAR CONSULTA
+	(5) BUSCAR PACIENTES
+	(6) RELATORIO GERAL
+	(7) FILA DE IMPRESSAO
+	(8) FINALIZAR O PROGRAMA
+###############################################################
+#################### CADASTRO PACIENTE #######################
+NOME COMPLETO: CPF: DATA DE NASCIMENTO: TELEFONE: GENERO: 
+CADASTRO REALIZADO COM SUCESSO. PRESSIONE QUALQUER TECLA PARA VOLTAR PARA O MENU INICIAL
+###############################################################
+####################### MENU PRINCIPAL #########################
+ESCOLHA UMA OPCAO:
+	(1) CADASTRAR SECRETARIO
+	(2) CADASTRAR MEDICO
+	(3) CADASTRAR PACIENTE
+	(4) REALIZAR CONSULTA
+	(5) BUSCAR PACIENTES
+	(6) RELATORIO GERAL
+	(7) FILA DE IMPRESSAO
+	(8) FINALIZAR O PROGRAMA
+###############################################################
+#################### BUSCAR PACIENTES #######################
+NOME DO PACIENTE: PACIENTES ENCONTRADOS:
+1 - VAINE (524.456.852-98)
+
+#################### BUSCAR PACIENTES #######################
+ESCOLHA UMA OPCAO:
+	(1) ENVIAR LISTA PARA IMPRESSAO
+	(2) RETORNAR AO MENU PRINCIPAL
+############################################################
+
+LISTA ENVIADA PARA FILA DE IMPRESSAO. PRESSIONE QUALQUER TECLA PARA RETORNAR AO MENU PRINCIPAL
+############################################################
+####################### MENU PRINCIPAL #########################
+ESCOLHA UMA OPCAO:
+	(1) CADASTRAR SECRETARIO
+	(2) CADASTRAR MEDICO
+	(3) CADASTRAR PACIENTE
+	(4) REALIZAR CONSULTA
+	(5) BUSCAR PACIENTES
+	(6) RELATORIO GERAL
+	(7) FILA DE IMPRESSAO
+	(8) FINALIZAR O PROGRAMA
+###############################################################
+#################### CONSULTA MEDICA #######################
+CPF DO PACIENTE: ---
+-NOME: VAINE
+-DATA DE NASCIMENTO: 2/4/1985
+---
+DATA DA CONSULTA: POSSUI DIABETES: FUMANTE: ALERGIA A MEDICAMENTO: HISTORICO DE CANCER: TIPO DE PELE: 
+############################################################
+#################### CONSULTA MEDICA #######################
+ESCOLHA UMA OPCAO:
+	(1) CADASTRAR LESAO
+	(2) GERAR RECEITA MEDICA
+	(3) SOLICITACAO DE BIOPSIA
+	(4) ENCAMINHAMENTO
+	(5) ENCERRAR CONSULTA
+############################################################
+#################### CONSULTA MEDICA #######################
+CADASTRO DE LESAO:
+DIAGNOSTICO CLINICO: REGIAO DO CORPO: TAMANHO: ENVIAR PARA CIRURGIA: ENVIAR PARA CRIOTERAPIA: 
+LESAO REGISTRADA COM SUCESSO. PRESSIONE QUALQUER TECLA PARA RETORNAR AO MENU ANTERIOR
+############################################################
+#################### CONSULTA MEDICA #######################
+ESCOLHA UMA OPCAO:
+	(1) CADASTRAR LESAO
+	(2) GERAR RECEITA MEDICA
+	(3) SOLICITACAO DE BIOPSIA
+	(4) ENCAMINHAMENTO
+	(5) ENCERRAR CONSULTA
+############################################################
+#################### CONSULTA MEDICA #######################
+RECEITA MEDICA:
+TIPO DE USO: NOME DO MEDICAMENTO: TIPO DE MEDICAMENTO: QUANTIDADE: INSTRUCOES DE USO: 
+RECEITA ENVIADA PARA FILA DE IMPRESSAO. PRESSIONE QUALQUER TECLA PARA RETORNAR AO MENU ANTERIOR
+############################################################
+#################### CONSULTA MEDICA #######################
+ESCOLHA UMA OPCAO:
+	(1) CADASTRAR LESAO
+	(2) GERAR RECEITA MEDICA
+	(3) SOLICITACAO DE BIOPSIA
+	(4) ENCAMINHAMENTO
+	(5) ENCERRAR CONSULTA
+############################################################
+#################### CONSULTA MEDICA #######################
+SOLICITACAO DE BIOPSIA ENVIADA PARA FILA DE IMPRESSAO. PRESSIONE QUALQUER TECLA PARA RETORNAR AO MENU ANTERIOR
+############################################################
+#################### CONSULTA MEDICA #######################
+ESCOLHA UMA OPCAO:
+	(1) CADASTRAR LESAO
+	(2) GERAR RECEITA MEDICA
+	(3) SOLICITACAO DE BIOPSIA
+	(4) ENCAMINHAMENTO
+	(5) ENCERRAR CONSULTA
+############################################################
+#################### CONSULTA MEDICA #######################
+ENCAMINHAMENTO:
+ESPECIALIDADE ENCAMINHADA: MOTIVO: 
+ENCAMINHAMENTO ENVIADO PARA FILA DE IMPRESSAO. PRESSIONE QUALQUER TECLA PARA RETORNAR AO MENU ANTERIOR
+############################################################
+#################### CONSULTA MEDICA #######################
+ESCOLHA UMA OPCAO:
+	(1) CADASTRAR LESAO
+	(2) GERAR RECEITA MEDICA
+	(3) SOLICITACAO DE BIOPSIA
+	(4) ENCAMINHAMENTO
+	(5) ENCERRAR CONSULTA
+############################################################
+####################### MENU PRINCIPAL #########################
+ESCOLHA UMA OPCAO:
+	(1) CADASTRAR SECRETARIO
+	(2) CADASTRAR MEDICO
+	(3) CADASTRAR PACIENTE
+	(4) REALIZAR CONSULTA
+	(5) BUSCAR PACIENTES
+	(6) RELATORIO GERAL
+	(7) FILA DE IMPRESSAO
+	(8) FINALIZAR O PROGRAMA
+###############################################################
+#################### BUSCAR PACIENTES #######################
+NUMERO TOTAL DE PACIENTES ATENDIDOS: 1
+IDADE MEDIA: 43
+DISTRIBUICAO POR GENERO:
+- FEMININO: 1
+- MASCULINO: 0
+- OUTROS: 1
+TAMANHO MEDIO DAS LESOES: 10
+NUMERO TOTAL DE LESOES: 1
+NUMERO TOTAL DE CIRURGIAS: 1
+NUMERO TOTAL DE CRIOTERAPIA: 0
+
+ESCOLHA UMA OPCAO:
+	(1) ENVIAR PARA IMPRESSAO
+	(2) RETORNAR AO MENU PRINCIPAL
+############################################################
+
+RELATÓRIO ENVIADO PARA FILA DE IMPRESSAO. PRESSIONE QUALQUER TECLA PARA RETORNAR AO MENU ANTERIOR
+############################################################
+####################### MENU PRINCIPAL #########################
+ESCOLHA UMA OPCAO:
+	(1) CADASTRAR SECRETARIO
+	(2) CADASTRAR MEDICO
+	(3) CADASTRAR PACIENTE
+	(4) REALIZAR CONSULTA
+	(5) BUSCAR PACIENTES
+	(6) RELATORIO GERAL
+	(7) FILA DE IMPRESSAO
+	(8) FINALIZAR O PROGRAMA
+###############################################################
+################ FILA DE IMPRESSAO MEDICA ##################
+ESCOLHA UMA OPCAO:
+	(1) EXECUTAR FILA DE IMPRESSAO
+	(2) RETORNAR AO MENU PRINCIPAL
+############################################################
+################ FILA DE IMPRESSAO MEDICA ##################
+EXECUTANDO FILA DE IMPRESSAO:
+1 - VAINE (524.456.852-98)
+
+RECEITUARIO
+NOME: VAINE
+
+USO ORAL
+
+DIPIRONA 500MG
+12 COMPRIMIDOS
+
+USAR DE 12 EM 12H EM CASO DE DOR
+
+ ()
+10/10/2023
+
+PACIENTE: VAINE
+CPF: 524.456.852-98
+
+SOLICITACAO DE BIOPSIA PARA AS LESOES:
+L1 - NEVO - DORSO - 10MM
+
+ ()
+10/10/2023
+
+PACIENTE: VAINE
+CPF: 524.456.852-98
+
+ESPECIALIDADE ENCAMINHADA: CARDIOLOGIA
+MOTIVO: PACIENTE PRECISA DE ANALISE DE RISCO PARA CIRURGIA
+
+ ()
+10/10/2023
+
+NUMERO TOTAL DE PACIENTES ATENDIDOS: 1
+IDADE MEDIA: 43
+DISTRIBUICAO POR GENERO:
+- FEMININO: 1
+- MASCULINO: 0
+- OUTROS: 1
+TAMANHO MEDIO DAS LESOES: 10
+NUMERO TOTAL DE LESOES: 1
+NUMERO TOTAL DE CIRURGIAS: 1
+NUMERO TOTAL DE CRIOTERAPIA: 0
+
+
+PRESSIONE QUALQUER TECLA PARA VOLTAR PARA O MENU ANTERIOR
+############################################################
+################ FILA DE IMPRESSAO MEDICA ##################
+ESCOLHA UMA OPCAO:
+	(1) EXECUTAR FILA DE IMPRESSAO
+	(2) RETORNAR AO MENU PRINCIPAL
+############################################################
+####################### MENU PRINCIPAL #########################
+ESCOLHA UMA OPCAO:
+	(1) CADASTRAR SECRETARIO
+	(2) CADASTRAR MEDICO
+	(3) CADASTRAR PACIENTE
+	(4) REALIZAR CONSULTA
+	(5) BUSCAR PACIENTES
+	(6) RELATORIO GERAL
+	(7) FILA DE IMPRESSAO
+	(8) FINALIZAR O PROGRAMA
+###############################################################
+
+---
+SADE SECRETARIOS:
+---
+
+NOME: HEIMERDINGER
+CPF: 456.987.123-96
+DATA DE NASCIMENTO: 20/10/1945
+TELEFONE: (90)99876-1234
+GENERO: MASCULINO
+ID: 0
+NOME DE USUARIO: heimer
+SENHA: science!
+NIVEL DE ACESSO: ADMIN
+
+
+------------------------------------
+
+---
+SADE MEDICOS:
+---
+
+NOME: DR. MUNDO
+CPF: 564.587.965-85
+DATA DE NASCIMENTO: 15/5/1988
+TELEFONE: (34)98761-2345
+GENERO: OUTROS
+ID: 0
+CRM: CRM-01234
+NOME DE USUARIO: mundo
+SENHA: a4548
+
+
+------------------------------------
+
+---
+SADE PACIENTES:
+---
+
+NOME: VAINE
+CPF: 524.456.852-98
+DATA DE NASCIMENTO: 2/4/1985
+TELEFONE: (27)98733-1236
+GENERO: FEMININO
+ID: 0
+DIABETES: 1
+FUMANTE: 1
+ALERGIA: 0
+HISTORICO DE CANCER: 0
+TIPO DE PELE: II
+
+CONSULTAS: 1
+IDs: 0 
+
+
+NOME: TRYNDAMERE
+CPF: 200.171.256-10
+DATA DE NASCIMENTO: 1/1/1975
+TELEFONE: (27)90044-1226
+GENERO: OUTROS
+ID: 1
+DIABETES: -1
+FUMANTE: -1
+ALERGIA: -1
+HISTORICO DE CANCER: -1
+TIPO DE PELE: -
+
+CONSULTAS: 0
+IDs: 
+
+
+------------------------------------
+
+---
+SADE LESOES:
+---
+ID: 0
+ROTULO: L1
+DIAGNOSTICO CLINICO: NEVO
+REGIAO DO CORPO: DORSO
+TAMANHO: 10
+ENVIAR PARA CIRURGIA: 1
+ENVIAR PARA CRIOTERAPIA: 0
+
+
+------------------------------------
+
+---
+SADE CONSULTAS:
+---
+ID: 0
+DATA: 10/10/2023
+MEDICO: -1
+
+LESOES: 1
+IDs: 0 
+
+
+------------------------------------

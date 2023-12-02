@@ -36,8 +36,8 @@ int quantidadeDocumentosNaFila(tFila *f);
 
 /**
  * Função que invoca as funções de impressão de Documento executando a impressão de todos os documentos da fila.
- * A impressão é feita em duas etapas, primeiro o Documento é impresso na tela e depois em arquivo.
- * A função também recebe o path para o diretório onde o arquivo deve ser criado ou editado
+ * A impressão é feita em duas etapas, primeiro o Documento é impresso na tela e depois em arquivo. 
+ * A função também recebe o path para o diretório onde o arquivo deve ser criado ou editado 
  */
 void imprimeFila(tFila *f, char *path);
 

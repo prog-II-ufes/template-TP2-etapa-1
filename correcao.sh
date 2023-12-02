@@ -221,7 +221,7 @@ script_com_pesos()
             output="${DIR_CASE}/saida/saida.txt"
 
             # $DIR_GAB_OBJ/prog < $txt_input_file > $output 2>&1
-            $DIR_GAB_OBJ/prog $directory_path < $input_file 2>&1
+            $DIR_GAB_OBJ/prog $directory_path < $input_file > $output 2>&1
             # mv *.txt $DIR_CASE/saida/
 
             for txtfile in *.txt; do

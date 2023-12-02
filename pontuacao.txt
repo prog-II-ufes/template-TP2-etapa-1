@@ -1,14 +1,14 @@
-receita.txt=0.5
-biopsia.txt=0.5
-encaminhamento.txt=0.5
-lista_busca.txt=2.0
-visualizacao.txt=2.5
+saida.txt=0.0
+receita.txt=1.0
+biopsia.txt=1.0
+encaminhamento.txt=1.0
+lista_busca.txt=3.0
 relatorio_geral.txt=4.0
 
 tFila.h=1.0
 tDocumento.h=1.0
 tReceita.h=0.5
-completo=0.0
 main=7.5
+completo=0.0
 
 valgrind=0.4

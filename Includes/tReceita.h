@@ -37,6 +37,7 @@ void desalocaReceita(void *dado);
  */
 void imprimeNaTelaReceita(void *dado);
 
+
 /**
  * Função que recebe um ponteiro genérico (que deve conter uma receita) e imprime os dados no arquivo
  * específico de acordo com a descrição do trabalho.
