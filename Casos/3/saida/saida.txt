@@ -1,5 +1,7 @@
 ################################################
 DIGITE O CAMINHO DO BANCO DE DADOS: ################################################
+Caminho do banco de dados: Casos/3/../../
+Caminho da pasta de saida: Casos/3/saida
 ######################## ACESSO MINI-SADE ######################
 DIGITE SEU LOGIN: DIGITE SUA SENHA: ###############################################################
 ####################### MENU PRINCIPAL #########################
@@ -161,7 +163,7 @@ ESCOLHA UMA OPCAO:
 	(7) FILA DE IMPRESSAO
 	(8) FINALIZAR O PROGRAMA
 ###############################################################
-#################### BUSCAR PACIENTES #######################
+#################### RELATORIO GERAL #######################
 NUMERO TOTAL DE PACIENTES ATENDIDOS: 2
 IDADE MEDIA: 42
 DISTRIBUICAO POR GENERO:
@@ -229,8 +231,8 @@ PACIENTE: SYNDRA
 CPF: 155.941.270-46
 
 SOLICITACAO DE BIOPSIA PARA AS LESOES:
-L1 - NEVO - DORSO - 10MM
-L1 - CERATOSE SEBORREICA - CANELA - 20MM
+L1 - MELANOMA - PEITORAL - 12MM
+L2 - NEVO - COXA - 18MM
 
 SORAKA ESTRELA (CRM-2454)
 1/12/2023

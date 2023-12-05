@@ -1,5 +1,7 @@
 ################################################
 DIGITE O CAMINHO DO BANCO DE DADOS: ################################################
+Caminho do banco de dados: Casos/2/../../
+Caminho da pasta de saida: Casos/2/saida
 ######################## ACESSO MINI-SADE ######################
 DIGITE SEU LOGIN: DIGITE SUA SENHA: ###############################################################
 ####################### MENU PRINCIPAL #########################
@@ -218,7 +220,7 @@ ESCOLHA UMA OPCAO:
 	(7) FILA DE IMPRESSAO
 	(8) FINALIZAR O PROGRAMA
 ###############################################################
-#################### BUSCAR PACIENTES #######################
+#################### RELATORIO GERAL #######################
 NUMERO TOTAL DE PACIENTES ATENDIDOS: 1
 IDADE MEDIA: 42
 DISTRIBUICAO POR GENERO:
@@ -275,7 +277,7 @@ PACIENTE: VAINE
 CPF: 524.456.852-98
 
 SOLICITACAO DE BIOPSIA PARA AS LESOES:
-L1 - NEVO - DORSO - 10MM
+L1 - CERATOSE SEBORREICA - CANELA - 20MM
 
  ()
 19/11/2023
