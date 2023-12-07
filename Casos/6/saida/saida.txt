@@ -28,17 +28,6 @@ ESCOLHA UMA OPCAO:
 	(7) FILA DE IMPRESSAO
 	(8) FINALIZAR O PROGRAMA
 ###############################################################
-####################### MENU PRINCIPAL #########################
-ESCOLHA UMA OPCAO:
-	(1) CADASTRAR SECRETARIO
-	(2) CADASTRAR MEDICO
-	(3) CADASTRAR PACIENTE
-	(4) REALIZAR CONSULTA
-	(5) BUSCAR PACIENTES
-	(6) RELATORIO GERAL
-	(7) FILA DE IMPRESSAO
-	(8) FINALIZAR O PROGRAMA
-###############################################################
 #################### BUSCAR PACIENTES #######################
 NOME DO PACIENTE: PACIENTES ENCONTRADOS:
 1 - TRYNDAMERE (200.171.256-10)
