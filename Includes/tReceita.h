@@ -19,7 +19,11 @@ typedef struct tReceita tReceita;
 /**
  * Função que recebe todas as informações pertinentes a uma receita e retorna
  * um ponteiro com a receita criada.
- *
+ * Importante: os ponteiros para nomePaciente, nomeMedico e CRM devem ter sido alocados
+ * dinamicamente antes de serem passados para a função e NÃO serão desalocados pela desalocaReceita().
+ * Por exemplo, a string nomePaciente, antes de ser passada para a função, já foi alocada
+ * junto a um tipo tPaciente e será desalocada junto com ele. Portanto, ela é apenas referenciada
+ * dentro desta função.
  */
 tReceita *criaReceita(char *nomePaciente, eTipoUso tipoUso, char *nomeMedicamento,
                       char *tipoMedicamento, char *instrucoes, int qntd,
